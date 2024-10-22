@@ -6,6 +6,7 @@ Developing this simple project idea using the Dash library (of Python), we can m
 
 
 This project is a good start for beginners in python/data science and a good refresher for professionals who have dabbled in python / ML before. This web application can be applied to any company (whose stock code is available) of one's choosing, so feel free to explore!
+
 High-Level Approach :
 1) Make the main website's structure using mainly Dash HTML Components and Dash Core Components.
 2) Enhance the site's UI by styling using CSS
